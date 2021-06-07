@@ -1,0 +1,8 @@
+syntax: glob
+pytest/py3
+libs/synapse/source/demo
+libs/synapse/docs
+bin/
+*.o
+*.ppu
+
